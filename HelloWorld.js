@@ -1,3 +1,3 @@
 
-var msg = "HELLO WORLD MADLANG PEOPLE!";
+var msg = "HELLO EVERYONE!";
 console.log(msg);
